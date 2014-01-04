@@ -1,0 +1,21 @@
+﻿Build started 13-Jan-13 1:58:51 AM.
+     1>Project "D:\Anthony\My Documents\交大 Courses 2011..2012\Third Semester\資料結構\Assignments\Assignment 3 Binomial Heap\Data Structure Assignment 3\hw3_0016110\hw3_0016110\hw3_0016110.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\hw3_0016110.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt hw3_0016110.cpp
+         hw3_0016110.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Anthony\My Documents\交大 Courses 2011..2012\Third Semester\資料結構\Assignments\Assignment 3 Binomial Heap\Data Structure Assignment 3\hw3_0016110\Debug\hw3_0016110.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\hw3_0016110.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\Anthony\My Documents\交大 Courses 2011..2012\Third Semester\資料結構\Assignments\Assignment 3 Binomial Heap\Data Structure Assignment 3\hw3_0016110\Debug\hw3_0016110.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Anthony\My Documents\交大 Courses 2011..2012\Third Semester\資料結構\Assignments\Assignment 3 Binomial Heap\Data Structure Assignment 3\hw3_0016110\Debug\hw3_0016110.lib" /MACHINE:X86 Debug\hw3_0016110.obj
+         LINK : D:\Anthony\My Documents\交大 Courses 2011..2012\Third Semester\資料結構\Assignments\Assignment 3 Binomial Heap\Data Structure Assignment 3\hw3_0016110\Debug\hw3_0016110.exe not found or not built by the last incremental link; performing full link
+         hw3_0016110.vcxproj -> D:\Anthony\My Documents\交大 Courses 2011..2012\Third Semester\資料結構\Assignments\Assignment 3 Binomial Heap\Data Structure Assignment 3\hw3_0016110\Debug\hw3_0016110.exe
+       Manifest:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"D:\Anthony\My Documents\交大 Courses 2011..2012\Third Semester\資料結構\Assignments\Assignment 3 Binomial Heap\Data Structure Assignment 3\hw3_0016110\Debug\hw3_0016110.exe;#1" /manifest Debug\hw3_0016110.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Debug\hw3_0016110.unsuccessfulbuild".
+         Touching "Debug\hw3_0016110.lastbuildstate".
+     1>Done Building Project "D:\Anthony\My Documents\交大 Courses 2011..2012\Third Semester\資料結構\Assignments\Assignment 3 Binomial Heap\Data Structure Assignment 3\hw3_0016110\hw3_0016110\hw3_0016110.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.31
